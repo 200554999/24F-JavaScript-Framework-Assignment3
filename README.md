@@ -19,7 +19,7 @@ Follow the steps below to set up and run the project locally.
 
 Before you begin, ensure that you have the following installed on your machine:
 
-- **[Node.js](https://nodejs.org/)** (version 12 or higher)
+- **[Node.js](https://nodejs.org/)** 
 - **npm** (Node Package Manager) - comes with Node.js
 
 ### Installation Steps
